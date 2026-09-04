@@ -1,0 +1,33 @@
+{
+  "use_ppi": true,
+  "use_phenotypic": false,
+  "fusion_type": "concat",
+  "ppi_net_type": "mlp",
+  "ppi_vec_type": "probs",
+
+  "pheno_dim": 3,
+  "ppi_dim": 440,
+  "hidden_pheno": 16,
+  "hidden_ppi": 64,
+  "fusion_dim": 64,
+
+  "lr": 0.001,
+  "weight_decay": 0.0001,
+  "prior": 0.05,
+  "loss_type": "nnpu",
+  "pos_weight": 10.0,
+  "unl_weight": 1.0,
+
+  "train_data": "../all_hf_training_set_formatted_with_probs_pu_ratio_1_5_ppi_vec_row_permutation.tsv",
+  "val_data": "../all_hf_val_set_formatted_with_probs.tsv",
+
+  "batch_size": 32,
+  "max_epochs": 1000,
+  "save_every_n_epochs": 5,
+
+  "wandb_project": "PU_learning_strict_hf_set_sample-specific_modality_gating",
+  "wandb_entity": "mlid",
+  "wandb_run_name": null,
+
+  "seed": 44
+}

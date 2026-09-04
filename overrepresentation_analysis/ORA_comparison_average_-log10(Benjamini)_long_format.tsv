@@ -1,0 +1,81 @@
+category	average_minus_log10(Benjamini)	n_terms	genes_fraction	ORA
+Cell cycle & mitosis	4.628751704727929	36	0.084	early_low_unrefined
+DNA replication & repair	4.46348186067067	12	0.06	early_low_unrefined
+Cytoskeleton & Rho GTPase signaling	5.839651003103817	6	0.224	early_low_unrefined
+Membrane trafficking & vesicular transport	2.415086374003959	6	0.076	early_low_unrefined
+Immune response & host–pathogen interactions	7.965679768255353	51	0.376	early_low_unrefined
+Protein & RNA homeostasis	23.243615577433825	45	0.472	early_low_unrefined
+Ubiquitin-mediated protein degradation	4.501253790663531	9	0.06	early_low_unrefined
+Autophagy	36.01999662841625	1	0.164	early_low_unrefined
+Cell signaling	5.782723158052847	59	0.264	early_low_unrefined
+Other	12.663920793655889	21	0.528	early_low_unrefined
+Cell cycle & mitosis	17.922877142829915	52	0.284	early_low_refined
+DNA replication & repair	7.570782094966665	55	0.26	early_low_refined
+Cytoskeleton & Rho GTPase signaling	7.227608481798692	11	0.252	early_low_refined
+Membrane trafficking & vesicular transport	5.1679685145934675	17	0.272	early_low_refined
+Immune response & host–pathogen interactions	9.622250378094098	74	0.364	early_low_refined
+Protein & RNA homeostasis	5.835436366036567	45	0.544	early_low_refined
+Ubiquitin-mediated protein degradation	15.078485012883396	14	0.192	early_low_refined
+Autophagy	2.2580635694905467	8	0.072	early_low_refined
+Cell signaling	12.508812938065976	74	0.372	early_low_refined
+Other	11.436682037959478	23	0.408	early_low_refined
+Cell cycle & mitosis	1.7496019300943215	2	0.1	early_high_unrefined
+DNA replication & repair	1.7966298131040184	3	0.036	early_high_unrefined
+Cytoskeleton & Rho GTPase signaling	0.0	0	0.0	early_high_unrefined
+Membrane trafficking & vesicular transport	0.0	0	0.0	early_high_unrefined
+Immune response & host–pathogen interactions	1.94335587575179	19	0.148	early_high_unrefined
+Protein & RNA homeostasis	1.8102615713824497	18	0.052	early_high_unrefined
+Ubiquitin-mediated protein degradation	0.0	0	0.0	early_high_unrefined
+Autophagy	0.0	0	0.0	early_high_unrefined
+Cell signaling	1.6310663472443956	4	0.036	early_high_unrefined
+Other	1.4668852624152464	3	0.2	early_high_unrefined
+Cell cycle & mitosis	6.145923102893225	26	0.24	early_high_refined
+DNA replication & repair	4.4601573125089775	57	0.192	early_high_refined
+Cytoskeleton & Rho GTPase signaling	3.884454767319945	7	0.132	early_high_refined
+Membrane trafficking & vesicular transport	2.8579329663411466	10	0.148	early_high_refined
+Immune response & host–pathogen interactions	2.358746192836603	8	0.292	early_high_refined
+Protein & RNA homeostasis	3.648753839288768	7	0.26	early_high_refined
+Ubiquitin-mediated protein degradation	1.4609239012072237	1	0.048	early_high_refined
+Autophagy	2.1719612211446773	4	0.044	early_high_refined
+Cell signaling	3.2336262739044472	4	0.12	early_high_refined
+Other	2.776581964168317	6	0.356	early_high_refined
+Cell cycle & mitosis	8.911820597240869	35	0.092	late_low_unrefined
+DNA replication & repair	8.913491107625692	10	0.06	late_low_unrefined
+Cytoskeleton & Rho GTPase signaling	6.964296899176831	6	0.192	late_low_unrefined
+Membrane trafficking & vesicular transport	7.60398956372909	3	0.1	late_low_unrefined
+Immune response & host–pathogen interactions	9.611020641926435	44	0.3	late_low_unrefined
+Protein & RNA homeostasis	22.21474418224206	35	0.396	late_low_unrefined
+Ubiquitin-mediated protein degradation	9.573668804582445	9	0.088	late_low_unrefined
+Autophagy	26.329754146925875	1	0.132	late_low_unrefined
+Cell signaling	10.431540878641934	47	0.22	late_low_unrefined
+Other	12.342559864343622	21	0.408	late_low_unrefined
+Cell cycle & mitosis	23.6202857396525	47	0.352	late_low_refined
+DNA replication & repair	9.828910784805792	77	0.328	late_low_refined
+Cytoskeleton & Rho GTPase signaling	7.245527638060753	14	0.244	late_low_refined
+Membrane trafficking & vesicular transport	5.4357364735325335	13	0.264	late_low_refined
+Immune response & host–pathogen interactions	15.329881943859156	50	0.348	late_low_refined
+Protein & RNA homeostasis	9.014788256561213	25	0.54	late_low_refined
+Ubiquitin-mediated protein degradation	20.48407460044368	12	0.22	late_low_refined
+Autophagy	2.510748754854029	6	0.048	late_low_refined
+Cell signaling	19.35988412436636	54	0.372	late_low_refined
+Other	14.470150397173583	20	0.4	late_low_refined
+Cell cycle & mitosis	0.0	0	0.0	late_high_unrefined
+DNA replication & repair	0.0	0	0.0	late_high_unrefined
+Cytoskeleton & Rho GTPase signaling	0.0	0	0.0	late_high_unrefined
+Membrane trafficking & vesicular transport	0.0	0	0.0	late_high_unrefined
+Immune response & host–pathogen interactions	0.0	0	0.0	late_high_unrefined
+Protein & RNA homeostasis	0.0	0	0.0	late_high_unrefined
+Ubiquitin-mediated protein degradation	0.0	0	0.0	late_high_unrefined
+Autophagy	0.0	0	0.0	late_high_unrefined
+Cell signaling	0.0	0	0.0	late_high_unrefined
+Other	0.0	0	0.0	late_high_unrefined
+Cell cycle & mitosis	1.6050025142326605	4	0.104	late_high_refined
+DNA replication & repair	2.1372724716820253	1	0.072	late_high_refined
+Cytoskeleton & Rho GTPase signaling	1.3288271572849168	2	0.1	late_high_refined
+Membrane trafficking & vesicular transport	0.0	0	0.0	late_high_refined
+Immune response & host–pathogen interactions	1.9409999832893596	2	0.24	late_high_refined
+Protein & RNA homeostasis	0.0	0	0.0	late_high_refined
+Ubiquitin-mediated protein degradation	0.0	0	0.0	late_high_refined
+Autophagy	2.0364072412275536	2	0.048	late_high_refined
+Cell signaling	0.0	0	0.0	late_high_refined
+Other	0.0	0	0.0	late_high_refined
